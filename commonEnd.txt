@@ -1,0 +1,3 @@
+public boolean commonEnd(int[] a, int[] b) {
+  //sej kode
+}
